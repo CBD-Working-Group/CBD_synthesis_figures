@@ -1,6 +1,6 @@
 
 
-mydata<-read.csv("~/Documents/UBC/CBD/Synthesis_MS/figures/wos_sankey2.csv")
+mydata<-read.csv("./wos_sankey2.csv")
 
 test<-mydata[,c(7,8,9,5,12)]
 
